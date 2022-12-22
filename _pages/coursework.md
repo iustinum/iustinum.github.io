@@ -2,7 +2,7 @@
 layout: page
 permalink: /coursework/
 title: coursework
-description: The university-level coursework I completed at UC Berkeley.
+description: All coursework I completed at UC Berkeley.
 nav: true
 nav_order: 3
 ---
@@ -24,6 +24,7 @@ nav_order: 3
 ## Mathematics
 
 - [Math 54 (Linear Algebra and Differential Equations)](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54)
+- [Math 1B (Calculus)](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math1B)
 
 ## Statistics
 
@@ -33,3 +34,4 @@ nav_order: 3
 
 - [UGBA 10 (Principles of Business)](https://classes.berkeley.edu/content/2021-fall-ugba-10-001-lec-001)
 - [Econ 2 (Introduction to Economics)](https://www.econ.berkeley.edu/course/economics-2)
+- [Slavic 46 (Twentieth-Century Russian Literature)](https://classes.berkeley.edu/content/2020-spring-slavic-46-001-lec-001)

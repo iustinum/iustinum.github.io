@@ -12,4 +12,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Undergraduate at UC Berkeley studying computer science and applied math with interests in cybersecurity and computer architecture. Swimmer, water polo player, and snowboarder.
+I am an Undergraduate at UC Berkeley studying computer science and business with interests in cybersecurity and computer architecture. 
+
+In my free time, I swim, snowboard, and play water polo.
