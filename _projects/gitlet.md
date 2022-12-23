@@ -7,7 +7,7 @@ importance: 1
 category: school
 ---
 
-*design document and code cannot be publicly shared due to course guideline, though they are available upon request.*
+***design document and code cannot be publicly shared per course guideline, though they are available upon [request](mailto:jwu25@berkeley.edu).***
 
 My implementation of Git used file persistence, cryptographic hashing (SHA-1), graph traversals, regex, and
 data structures such as trees and queues. I designed this project with several core software engineering principles in mind, 
