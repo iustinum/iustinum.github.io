@@ -1,8 +1,5 @@
 ---
-layout: default
+layout: redirected
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-redirect_to: /assets/pdf/cv.pdf
+redirect_to: https://drive.google.com/file/d/1zFAk2LER_PskDtQ7P6d6zZS96Yp2cbzP/view?usp=sharing
 ---
