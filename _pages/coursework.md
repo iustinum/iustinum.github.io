@@ -26,12 +26,9 @@ nav_order: 3
 - [Math 54 (Linear Algebra and Differential Equations)](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54)
 - [Math 1B (Calculus)](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math1B)
 
-## Statistics
-
-- [Stat 20 (Introduction to Probability and Statistics)](https://classes.berkeley.edu/content/2022-fall-stat-20-001-lec-001)
-
 ## Others
 
 - [UGBA 10 (Principles of Business)](https://classes.berkeley.edu/content/2021-fall-ugba-10-001-lec-001)
 - [Econ 2 (Introduction to Economics)](https://www.econ.berkeley.edu/course/economics-2)
+- [Stat 20 (Introduction to Probability and Statistics)](https://classes.berkeley.edu/content/2022-fall-stat-20-001-lec-001)
 - [Slavic 46 (Twentieth-Century Russian Literature)](https://classes.berkeley.edu/content/2020-spring-slavic-46-001-lec-001)

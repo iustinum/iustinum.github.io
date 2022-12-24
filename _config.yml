@@ -111,9 +111,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: my blogs # blog_name will be displayed in your blog page
-blog_nav_title: my blogs # your blog must have a title for it to be displayed in the nav bar
-blog_description: my miscellaneous writeups
+blog_name: writeups # blog_name will be displayed in your blog page
+blog_nav_title: writeups # your blog must have a title for it to be displayed in the nav bar
+blog_description: I write about interesting things I learnt
 permalink: /blog/:year/:title/
 
 # Pagination
