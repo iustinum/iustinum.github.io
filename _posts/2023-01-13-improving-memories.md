@@ -3,7 +3,7 @@ layout: post
 title:  tricks for better memories
 date:   2023-01-13 02:46:16
 description: improving memories, smarter everyday
-tags: formatting links
+tags: memory
 categories: neurohacks
 ---
 I have always thought of memories as something innate, but having read about improving memories from this blog post, I 
