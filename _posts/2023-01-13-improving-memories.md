@@ -6,8 +6,8 @@ description: improving memories, smarter everyday
 tags: memory
 categories: neurohacks
 ---
-I have always thought of memories as something innate, but having read about improving memories from this blog post, I 
-come to believe that memories can be improved through several visual techniques. Those techniques are:
+I have always thought of memories as something innate. This [blog post](https://www.vox.com/even-better/23537229/improve-your-memory-concentration-tips)
+offers some good tips to sharpen one's memory. Some techniques listed are:
 
 <ul>
     <li>Avoid multitasking while remembering important things</li>
@@ -16,10 +16,15 @@ come to believe that memories can be improved through several visual techniques.
     <li>Become aware of forgetful moments</li>
 </ul>
 
-There are two types of memories. The first type are memories with significance. Those memories involve emotional events
-in our lives such as weddings. Those are memories we can remember for life without paying much effort to it. The other type
-of memories are those that carry less emotional significance but are important to remember. Examples of those memories include the names
-of our classmates or the place where we put the car key. Those memories require repetitive and active reflections.
+I would categorize memories into two types. The first type are memories carrying emotional significance such as the day
+when one receives an offer to their dream college. Those memories are hard to forget and therefore are may be trivial to those
+memory improvement techniques. 
+
+The other type of memories are those that carry less emotional significance yet are important to remember. Examples include course
+contents for exams. Making those subjects more memorable would benefit from those tips.
+
+Those tips may seem obvious. I rewrite them out in my blog so that this post can serve as reminders when I forget to
+practice them.
 
 <hr>
 
@@ -51,13 +56,11 @@ down something that we would not want to remember help us mentally encode those 
 #### Active Recollection
 
 I first heard about this technique from my high school statistics teacher. He would assign us quizzes at the beginning of
-classes on contents from yesterday's class. He told us that, quizzes should not be treated us a means to evaluate academic
-performance, but rather a learning tool to help us learn and draw mental connections with the subject matter. After the initial
-exposure of learning something new, I would leave it and do some other tasks. After a while, I will come back to my desk and try
-to rewrite and summarize on what I had learnt before, all without consulting the actual material. I found it an especially useful
-technique to understand Leetcode solutions, as rewriting solutions without consulting allow me to savior the purpose of every
-single line of code. Afterwards I would look through the entire solution as a whole to see the big picture on while this algorithm
-works like that.
+classes on contents from yesterday's class. He wanted to use quiz as a learning tool to consolidate our mental connections with course content. 
+I applied this technique while trying to learn anything new. Following the initial exposure, I would shift my mind to other tasks. 
+After I cooled off, I will try to rewrite and summarize on what I had learnt before without consulting any material. 
+It was helpful when I tried to understand Leetcode solutions since rewriting solutions allows me to see the big picture of the
+code rather than the functions of any single line of the code.
 
 <hr>
 
