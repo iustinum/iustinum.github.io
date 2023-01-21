@@ -13,13 +13,14 @@ nav_order: 3
 
 - [EECS 16A (Designing Information Devices and Systems I)](https://www2.eecs.berkeley.edu/Courses/EECS16A/)
 - [EECS 126 (Probability and Random Processes)](https://www2.eecs.berkeley.edu/Courses/EECS126/)
-- [EE 120 (Signals and Systems)](https://www2.eecs.berkeley.edu/Courses/EE120/)
 
 #### Computer Science
 
 - [CS 61A (The Structure and Interpretation of Computer Programs)](https://www2.eecs.berkeley.edu/Courses/CS61A/)
 - [CS 61B (Data Structures)](https://www2.eecs.berkeley.edu/Courses/CS61B/)
+- [CS 61C (Machine Structures)](https://www2.eecs.berkeley.edu/Courses/CS61C/)
 - [CS 70 (Discrete Mathematics and Probability Theory)](https://www2.eecs.berkeley.edu/Courses/CS70/)
+- [CS 170 (Efficient Algorithms and Intractable Problems)](https://www2.eecs.berkeley.edu/Courses/CS170/)
 
 #### Mathematics
 
