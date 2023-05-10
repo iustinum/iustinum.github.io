@@ -13,6 +13,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate at UC Berkeley studying computer science and business administration with interests in cybersecurity and computer architecture. 
+I am an undergraduate at UC Berkeley studying computer science and business administration with interests in computer architecture and natural language processing.
 
 In my free time, I swim, snowboard, and play water polo.
