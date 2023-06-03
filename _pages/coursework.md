@@ -20,6 +20,7 @@ nav_order: 3
 - [CS 61B (Data Structures)](https://www2.eecs.berkeley.edu/Courses/CS61B/)
 - [CS 61C (Machine Structures)](https://www2.eecs.berkeley.edu/Courses/CS61C/)
 - [CS 70 (Discrete Mathematics and Probability Theory)](https://www2.eecs.berkeley.edu/Courses/CS70/)
+- [CS 162 (Operating Systems and System Programming)](https://www2.eecs.berkeley.edu/Courses/CS162/)
 - [CS 170 (Efficient Algorithms and Intractable Problems)](https://www2.eecs.berkeley.edu/Courses/CS170/)
 
 #### Mathematics
@@ -34,3 +35,4 @@ nav_order: 3
 - [UGBA 101B (Macroeconomic Analysis for Business Decisions)](https://classes.berkeley.edu/content/2023-spring-ugba-101b-001-lec-001)
 - [Stat 20 (Introduction to Probability and Statistics)](https://classes.berkeley.edu/content/2022-fall-stat-20-001-lec-001)
 - [Slavic 46 (Twentieth-Century Russian Literature)](https://classes.berkeley.edu/content/2020-spring-slavic-46-001-lec-001)
+- [RUSSIAN 1 (Elementary Russian)](https://classes.berkeley.edu/content/2023-fall-russian-1-001-lec-001)
