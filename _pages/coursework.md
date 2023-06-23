@@ -28,9 +28,15 @@ nav_order: 3
 - [Math 54 (Linear Algebra and Differential Equations)](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54)
 - [Math 1B (Calculus)](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math1B)
 
-#### Others
+#### Business Administration
 
 - [UGBA 10 (Principles of Business)](https://classes.berkeley.edu/content/2021-fall-ugba-10-001-lec-001)
+- [UGBA 100 (Business Communication)](https://classes.berkeley.edu/content/2023-fall-ugba-100-001-lec-001)
+
+
+
+#### Others
+
 - [Econ 2 (Introduction to Economics)](https://www.econ.berkeley.edu/course/economics-2)
 - [UGBA 101B (Macroeconomic Analysis for Business Decisions)](https://classes.berkeley.edu/content/2023-spring-ugba-101b-001-lec-001)
 - [Stat 20 (Introduction to Probability and Statistics)](https://classes.berkeley.edu/content/2022-fall-stat-20-001-lec-001)
