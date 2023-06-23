@@ -13,3 +13,8 @@ Writing documentation for a codebase can be a challenging task. It not only requ
 
 Below is a demonstration on how 3LM generates a comprehensive documentation for an example codebase:
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3lm_demo.gif" title="3LM Demo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
