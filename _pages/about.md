@@ -6,7 +6,7 @@ subtitle: <tt>jwu25 AT berkeley DOT edu</tt>
 
 profile:
   align: right
-  image: profile.jpg
+  image: new_me.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

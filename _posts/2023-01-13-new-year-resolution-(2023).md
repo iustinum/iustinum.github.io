@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  new year resolution (2023)
+title:  New Year Resolutions (2023)
 date:   2023-01-13 00:46:16
 categories: resolutions
 ---
@@ -20,7 +20,7 @@ categories: resolutions
 1. Finish a major CS project
 2. Read five academic journals
 3. Solve at least one coding challenge everyday
-4. Learn C++
+4. Learn C++ and Rust
 5. Fullstack development
 
 #### Health

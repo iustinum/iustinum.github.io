@@ -1,6 +1,6 @@
 ---
 layout: page
-title: build your own world
+title: Build Your Own World
 description: a game engine for generating 2D tile-based world
 img: 
 importance: 2

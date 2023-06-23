@@ -139,7 +139,7 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--header-theme-color);
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
@@ -180,7 +180,7 @@ blockquote {
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bolder;
-      color: var(--global-theme-color);
+      color: var(--header-active-color);
       &:hover {
         color: var(--global-hover-color);
       }

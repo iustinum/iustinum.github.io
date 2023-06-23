@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gitlet
+title: Gitlet
 description: a version-control system that mimics some of the basic features of the popular system Git
 img: 
 importance: 1
