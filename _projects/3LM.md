@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3LM
+title: Aetheon
 description: An online tool that uses Large Language Models to generate a comprehensive documentation for any codebases.
 img: 
 importance: 1
