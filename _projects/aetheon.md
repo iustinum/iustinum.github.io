@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aetheon
-description: An online tool that uses Large Language Models to generate a comprehensive documentation for any codebases.
+description: Improving readability of codebases with auto inline docstring generation
 img: 
 importance: 1
 category: personal
